@@ -1,6 +1,8 @@
 Jacques Dupond
 Jean DOE
-John Doe
+JOHN Doe
+Jean DURAND
+JOHN DOE
 Jane Doe
 Pierre-Julien VILLOUD
 Clément Tartempion
